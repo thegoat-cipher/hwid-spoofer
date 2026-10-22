@@ -34,6 +34,9 @@ rejected unless `--allow-virtual` is explicitly passed (testing only).
 
 ## Build
 
+Complete platform-specific steps, including prerequisites, upgrade, uninstall,
+and troubleshooting, are in [`INSTALL.md`](INSTALL.md).
+
 Linux:
 
 ```bash

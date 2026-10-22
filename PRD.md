@@ -455,7 +455,7 @@ Rules:
 | 7 | Supports backups and restoration | Met and tested on Linux. |
 | 8 | Handles unsupported hardware without crashing | Met: explicit `unavailable`/unsupported reporting and tested refusal paths. |
 | 9 | Includes automated tests | Met: 44 executed tests plus one privileged ignored test. |
-| 10 | Includes installation and usage documentation | Met: this PRD, `README.md`, and `TEST_REPORT.md`. |
+| 10 | Includes installation and usage documentation | Met: `INSTALL.md`, `README.md`, this PRD, and `TEST_REPORT.md`. |
 
 ## 15. Risks and limitations
 
